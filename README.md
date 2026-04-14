@@ -10,7 +10,8 @@ This repo contains a basic terminal-based version of the newly popular **WORDLE*
 - A terminal that supports ANSI color codes (most modern terminals).
 
 
-## Future developments that I can think of is use of CMake to make this program dynamic to operating systems so that my lil' sister can also play this. 
+## Future developments:
+-I can think of is use of CMake to make this program dynamic to operating systems so that my lil' sister can also play this. 
 
 
 ## 💻 How to Compile and Run
